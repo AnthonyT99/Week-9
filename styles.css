@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+
+#newsletter {
+    text-align: center;
+    position: relative; top: 350px;
+    
+}
+
+.form {
+    width: 400px;
+    text-align: center;
+    position: relative; left: 750px; top: 350px;
+}
+
+#logo {
+    position: relative; left: 650px;
+}
+
+p {
+    text-align: center;
+}
+
+#adopt {
+    position: relative; top: 100px;
+}
